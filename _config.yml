@@ -2,7 +2,7 @@
 name: "MyBlog"
 title: "A blog maybe."
 description: "I wanted to work on writing things so here I am."
-logo: 'assets/images/bikeNA.png'
+logo: 'assets/images/bikeDNAback.png'
 favicon: 'assets/images/bikeNA.png'
 baseurl: "/"
 google_analytics: 'UA-46278016-1'
