@@ -1,7 +1,7 @@
 # Site
-name: "MyBlog"
+name: "Blog"
 title: "A blog maybe."
-description: "I wanted to work on writing things so here I am."
+description: "You don't know what you are doing either."
 logo: 'assets/images/logowheel.png'
 favicon: 'assets/images/bikeNA.png'
 baseurl: "/"
